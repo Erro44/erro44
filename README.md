@@ -2,7 +2,7 @@
 - 💻 Estudante de desenvolvimento web\ Front-end🚀
 - movido por desafios, sempre em busca de novas challengens📚
 <div>
-  <a href="https://github.com/juliao95">
+  <a href="https://github.com/erro44">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erro44&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erro44&layout=compact&langs_count=7&theme=dracula"/>
 </div>
